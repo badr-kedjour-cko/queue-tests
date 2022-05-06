@@ -1,0 +1,29 @@
+{
+    "name": "cap-queue-load-test",
+    "version": "0.0.1",
+    "private": true,
+    "devDependencies": {
+        "@cko/issuing-acceptance-test-extensions": "2.0.14",
+        "atob": "^2.1.2",
+        "babel-eslint": "^10.x.x",
+        "btoa": "^1.2.1",
+        "chai": "^4.x.x",
+        "chai-as-promised": "^7.1.1",
+        "chai-json-schema": "^1.x.x",
+        "cli-table": "^0.x.x",
+        "cross-env": "^7.x.x",
+        "currency-codes": "^2.1.0",
+        "dayjs": "^1.x.x",
+        "eslint": "^8.x.x",
+        "faker": "^5.x.x",
+        "mocha": "^9.x.x",
+        "mocha-cakes-2": "^3.x.x",
+        "mochawesome": "^7.x.x",
+        "openpgp": "^5.0.0",
+        "path": "^0.x.x",
+        "pg": "^8.7.1",
+        "supertest": "^6.x.x",
+        "uuid": "^8.3.2",
+        "xml-js": "^1.6.11"
+    }
+}
